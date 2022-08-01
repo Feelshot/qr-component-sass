@@ -1,3 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;700&display=swap');
 @import "utilities/variables.scss";
 * {margin: 0px; padding: 0px;}
+
+body {
+    background-color: $Light-gray;
+    font-family: 'Outfit', sans-serif;
+    main {
+        .tarjetaQr {
+            margin: 100px auto 0px auto;
+            border-radius: 20px;
+            background-color: $White;
+            width: 340px;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            .imgQr {
+                img {
+                    width: 300px;
+                    height: auto;
+                    border-radius: 10px;
+                    margin: 20px;
+                }
+            }
+            .textBox {
+                .title {
+                    width: 290px;
+                    margin: 0px auto 20px auto;
+                    font-size: 22px;
+                    font-weight: 700;
+                    color: $Dark-blue;
+                }
+                .generalText {
+                    font-weight: 400;
+                    font-size: 15px;
+                    color: $Grayish-blue;
+                    width: 260px;
+                    margin: 0 auto 40px auto;
+                }
+            }
+        }
+    }
+}

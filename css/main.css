@@ -2,3 +2,35 @@
 * {
   margin: 0px;
   padding: 0px; }
+
+body {
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif; }
+  body main .tarjetaQr {
+    margin: 100px auto 0px auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 340px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; }
+    body main .tarjetaQr .imgQr img {
+      width: 300px;
+      height: auto;
+      border-radius: 10px;
+      margin: 20px; }
+    body main .tarjetaQr .textBox .title {
+      width: 290px;
+      margin: 0px auto 20px auto;
+      font-size: 22px;
+      font-weight: 700;
+      color: #1f3251; }
+    body main .tarjetaQr .textBox .generalText {
+      font-weight: 400;
+      font-size: 15px;
+      color: #7b879d;
+      width: 260px;
+      margin: 0 auto 40px auto; }
