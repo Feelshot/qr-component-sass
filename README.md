@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-sass-L2_VTaLrPX)
+- Live Site URL: [Add live site URL here](https://qr-component-sass.vercel.app)
 
 ## My process
 
@@ -42,8 +42,8 @@ I use this simple practice to continue my learning in frontend mentor and with t
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Feelshot web](https://www.feelshotmarketing.com)
+- Frontend Mentor - [@feelshot](https://www.frontendmentor.io/profile/Feelshot)
+- Twitter - [@DFeelshot](https://twitter.com/DFeelshot)
 
 
